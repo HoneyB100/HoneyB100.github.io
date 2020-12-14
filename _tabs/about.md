@@ -24,3 +24,8 @@ We enjoy challenges and happy to give tips to people that are stuck on problems.
 
 ## TryHackMe
 <script src="https://tryhackme.com/badge/842"></script>  
+
+## HackTheBox
+<script src="https://www.hackthebox.eu/badge/188874"></script>  
+
+
