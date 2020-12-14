@@ -19,7 +19,8 @@ My specific areas with cybersecurity are radio frequency wireless attacks, Open 
 ## About Byte Lounge Community
 This community is centred around ethical hacking.  
 We pride ourselves with being white hat hackers and competing with other teams in capture the flag (CTF).  
-We enjoy challenges and happy to give tips to people that are stuck on problems. We find great satisfaction in achieving challenges as a team.  
+We enjoy challenges and happy to give tips to people that are stuck on problems. 
+We find great satisfaction in achieving challenges as a team.  
 
 
 ## TryHackMe
