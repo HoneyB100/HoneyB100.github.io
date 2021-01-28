@@ -12,8 +12,8 @@ title: TurtleBerry's Blog                          # the main title
 tagline: Owner of Byte Lounge  # it will display as the sub-title
 
 description: >-                        # used by seo meta and the atom feed
-  A community which relies on teamwork,  
-  trust and the ability to see imperfections.
+  An ethical hacking focused blog
+  with writeup's and thoughts on the current state of hacking.
 
 # fill in the base hostname & protocol for your site, e.g., 'https://username.github.io'
 url: 'https://honeyb100.github.io./'
@@ -26,7 +26,7 @@ github:
   username: HoneyB100             # change to your github username
 
 twitter:
-  username: Byte_Lounge            # change to your twitter username
+  username: TurtleBerry101            # change to your twitter username
 
 social:
   name: Benjamin Honey                  # it will shows as the copyright owner in Footer
